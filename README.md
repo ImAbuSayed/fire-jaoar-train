@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fire-jaoar-train/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Fire Jaoar Train](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fire-jaoar-train/) |
+| **Get License** | [Music Rights & Licensing for Fire Jaoar Train](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fire-jaoar-train/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d6a30d37e00a16a8114b42d86dca8ffcbb91187cd42a33b606bed73f0d745724` |
 | **Timestamp** | May 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
